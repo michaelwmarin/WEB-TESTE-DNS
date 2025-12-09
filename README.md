@@ -33,7 +33,7 @@ Ferramenta criada para a equipe de suporte da **Muvnet** visualizar a saúde dos
    ```bash
    git clone [https://github.com/SEU-USUARIO/muvnet-dns-web.git](https://github.com/SEU-USUARIO/muvnet-dns-web.git)
    cd muvnet-dns-web
-````
+   ````
 
 2.  **Instale as dependências:**
 
