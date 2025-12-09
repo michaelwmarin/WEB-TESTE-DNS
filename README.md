@@ -1,4 +1,4 @@
-# 📡 Muvnet DNS Monitor (Web Dashboard)
+# 📡 DNS Monitor (Web Dashboard)
 
 Painel de monitoramento e diagnóstico de DNS desenvolvido em **Python** com **Streamlit**.
 Ferramenta criada para a equipe de suporte da **Muvnet** visualizar a saúde dos servidores IPv4 e IPv6 em tempo real via navegador.
